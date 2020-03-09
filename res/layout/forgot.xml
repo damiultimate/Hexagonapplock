@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_margin="10dp"
+    android:inputType="textPassword"
+    android:id="@+id/forgot"
+    android:hint="Enter your answer"
+    android:textColorHint="#A8A7A7"
+    android:textColor="#575757"
+    android:layout_gravity="center"
+    android:padding="5dp"
+    android:background="@drawable/edittext3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_margin="9dp"
+        android:padding="9dp"
+        android:background="@drawable/edittext6"
+        android:textSize="18sp"
+        android:id="@+id/enter"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"/>
+</LinearLayout>

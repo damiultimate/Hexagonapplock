@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8E1134</color>
+    <color name="colorPrimaryDark">#6D0C27</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#E71147</color>
+    <color name="colorAccent1">#6CC7C5C6</color>
+    <color name="colorAccent2">#00C7C5C6</color>
+    <color name="ios_white">#aaFFFFFF</color>
+    <color name="black">#FFFFFF</color>
+
+
+</resources>
